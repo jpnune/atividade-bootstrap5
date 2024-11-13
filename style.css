@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #7985f3;
+    color: #EEE;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+h1{
+   text-align: center;
+}
+
+cantainer-carousel {
+    margin-bottom: 30px ;
+}
+
+#div-container  img {   
+    width:100% ;
+    margin-bottom: 2em;
+}
+
+.container {
+    margin: auto;
+    max-width: 90%;
+}
+
+.card{
+    margin-bottom: 1.5em;
+}
+
+
+
